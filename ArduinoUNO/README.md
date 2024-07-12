@@ -5,3 +5,6 @@
 #### Hardware Details
 - Microcontroller:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atmel AVR ATmega328P-U
 - Crystal Frequency:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16 Mhz
+
+#### Pin-Out
+<img src="https://github.com/user-attachments/assets/e72b1594-1039-4156-8e6c-eaa1649a4dec" width="40%" height="40%" />
