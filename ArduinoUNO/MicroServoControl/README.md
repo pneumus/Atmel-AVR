@@ -3,4 +3,4 @@
 <img src="https://github.com/user-attachments/assets/983a2ec3-7e01-4f64-b1e0-7daeb0b6cbc3" width="60%" height="60%" />
 
 Note: Check the datasheet of the servo!
-Usually the <span style="color:blue">some *blue* red cable</span> is the 
+Usually the <span style="color:red">red cable</span> is the 
