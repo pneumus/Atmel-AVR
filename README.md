@@ -41,5 +41,5 @@ sudo apt install code
 
 #### Configure Visual Studio Code
 - Install C/C++ Extension Pack for VS Code
-![image](https://github.com/user-attachments/assets/6f6e1ffc-b966-4313-8e2b-5fa0b5422b17)
+<img src="https://github.com/user-attachments/assets/6f6e1ffc-b966-4313-8e2b-5fa0b5422b17" width="50%" height="50%" />
 
