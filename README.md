@@ -1,4 +1,4 @@
-## Embedded code samples for \
+## Embedded code samples for   
 ## Atmel AVR microcontrollers
 
 ### How to setup the environment?
