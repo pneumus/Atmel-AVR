@@ -12,7 +12,7 @@
   <summary>Arch Linux</summary>
 
 ```bash
-sudo pacman -S avrdude avr-gcc
+sudo pacman -S avrdude avr-gcc avr-libc
 git clone https://aur.archlinux.org/visual-studio-code-bin.git
 cd visual-studio-code-bin
 makepkg -si
