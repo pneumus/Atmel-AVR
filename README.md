@@ -10,7 +10,8 @@
 
 ##### Installation Process
 <details>
-  <summary>Arch Linux</summary>
+  <summary>![image](https://github.com/user-attachments/assets/6adedf3c-1d29-43f4-8e96-8c3d6cdcae11)
+Arch Linux</summary>
 
 ```bash
 sudo pacman -S avrdude avr-gcc avr-libc
