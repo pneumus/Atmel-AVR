@@ -1,1 +1,1 @@
-## Embedded code samples for Atmel AVR
+## Embedded code samples for Atmel AVR microcontrollers
