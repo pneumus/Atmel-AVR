@@ -3,5 +3,7 @@
 ### How to setup the environment?
 - Install Visual Studio Code
 - Install avrdude
-- Setup Visual Studio Code
+- Install avr-gcc
+
+#### Setup Visual Studio Code
     - ...
