@@ -15,6 +15,7 @@ makepkg -si
 ```
 
 
-#### Setup Visual Studio Code
+#### Configure Visual Studio Code
 - Install C/C++ Extension Pack for VS Code
-- 
+![image](https://github.com/user-attachments/assets/6f6e1ffc-b966-4313-8e2b-5fa0b5422b17)
+
