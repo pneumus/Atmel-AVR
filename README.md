@@ -4,7 +4,7 @@
 
 #### Prerequisites
 - Install [Visual Studio Code](https://code.visualstudio.com/)
-- Install avrdude
+- Install [avrdude](https://github.com/avrdudes/avrdude)
 - Install avr-gcc
 
 #### Setup Visual Studio Code
