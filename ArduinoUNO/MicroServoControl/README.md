@@ -1,4 +1,4 @@
 ### Connect the servo to the following pins
 
-<img src="https://github.com/user-attachments/assets/2e244fab-9d34-4093-bf4c-9e900d48f4e7" width="60%" height="60%" />
+<img src="https://github.com/user-attachments/assets/983a2ec3-7e01-4f64-b1e0-7daeb0b6cbc3" width="60%" height="60%" />
 
