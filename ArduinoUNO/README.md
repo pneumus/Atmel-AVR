@@ -7,4 +7,4 @@
 - Crystal Frequency:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16 Mhz
 
 #### Pin-Out
-<img src="https://github.com/user-attachments/assets/e72b1594-1039-4156-8e6c-eaa1649a4dec" width="40%" height="40%" />
+<img src="https://github.com/user-attachments/assets/e72b1594-1039-4156-8e6c-eaa1649a4dec" width="60%" height="60%" />
