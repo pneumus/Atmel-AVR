@@ -26,6 +26,8 @@ makepkg -si
 <details>
   <summary>Windows</summary>
 
+- Download the [AVR Toolchain](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64.zip) from Microchip
+
 </details>
 
 
