@@ -1,5 +1,5 @@
 ## Embedded code samples for Atmel AVR microcontrollers
-## Cross-Platform Atmel AVR Development with Visual Studio Code
+## Cross-Platform Development with Visual Studio Code
 
 ### How to setup the environment?
 
