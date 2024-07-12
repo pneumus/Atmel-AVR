@@ -19,6 +19,14 @@ makepkg -si
 ```
   
 </details>
+<details>
+  <summary>Ubuntu Linux</summary>
+  
+</details>
+<details>
+  <summary>Windows</summary>
+
+</details>
 
 
 #### Configure Visual Studio Code
