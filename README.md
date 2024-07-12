@@ -22,7 +22,8 @@ makepkg -si
   
 </details>
 <details>
-  <summary>Ubuntu Linux</summary>
+  <summary><img src="https://github.com/user-attachments/assets/731b966d-2257-4276-9d8b-ac7f43758c4d" width="3%" height="3%" />
+Ubuntu Linux</summary>
 
 ```bash
 sudo apt-get update
