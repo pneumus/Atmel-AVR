@@ -1,4 +1,5 @@
 ## Embedded code samples for Atmel AVR microcontrollers
+## Cross-Platform Atmel AVR Development with Visual Studio Code
 
 ### How to setup the environment?
 
@@ -42,4 +43,4 @@ sudo apt install code
 #### Configure Visual Studio Code
 - Install C/C++ Extension Pack for VS Code
 <img src="https://github.com/user-attachments/assets/6f6e1ffc-b966-4313-8e2b-5fa0b5422b17" width="50%" height="50%" />
-
+- 
