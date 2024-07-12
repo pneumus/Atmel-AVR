@@ -8,4 +8,7 @@
 - Install avr-gcc
 
 #### Setup Visual Studio Code
-    - ...
+- Create C and/or C++ source file(s)
+- Install C/C++ Extension Pack
+- Create a Makefile
+
