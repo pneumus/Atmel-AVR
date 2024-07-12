@@ -9,5 +9,5 @@
 #### Pin-Out
 <img src="https://github.com/user-attachments/assets/e72b1594-1039-4156-8e6c-eaa1649a4dec" width="60%" height="60%" />
 
-#### ICSP Pin-Out
+#### ICSP (Programmer) Pins
 <img src="https://github.com/user-attachments/assets/79457c96-4865-4139-8729-a6ac3fe86900" width="60%" height="60%" />
