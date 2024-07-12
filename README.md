@@ -5,7 +5,7 @@
 #### Prerequisites
 - Install Visual Studio Code
 - Install avrdude
-- Install avr-gcc and/or avr-g++
+- Install avr-gcc
 
 #### Setup Visual Studio Code
 - Install C/C++ Extension Pack for VS Code
