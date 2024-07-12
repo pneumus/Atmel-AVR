@@ -7,7 +7,7 @@
 - Install [avrdude](https://github.com/avrdudes/avrdude)
 - Install avr-gcc
 
-##### Installation Process for various Platforms
+##### Installation Process
 <details>
   <summary>Arch Linux</summary>
 
