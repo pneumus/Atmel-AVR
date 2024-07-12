@@ -21,7 +21,14 @@ makepkg -si
 </details>
 <details>
   <summary>Ubuntu Linux</summary>
-  
+
+```bash
+sudo apt-get update
+sudo apt-get install gcc-avr binutils-avr avr-libc gdb-avr avrdude
+sudo apt-get install avrdude
+sudo apt install code
+```
+
 </details>
 <details>
   <summary>Windows</summary>
