@@ -71,6 +71,9 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/7f502d4f-5255-4542-86d5-b2358820893c" width="50%" height="50%" /><br><br>
   - Set <b>Configuration Name</b> ( Linux or Win32 ...etc. )<br><br>
   <img src="https://github.com/user-attachments/assets/19126ef9-a53c-49a5-ab7c-c9e60c406fdd" width="50%" height="50%" /><br><br>
+  - Locate <b>avr-gcc</b> on your Machine
+  - Edit the <b>Compiler Path</b><br><br>
+  <img src="https://github.com/user-attachments/assets/239dcd6b-3a0d-4d27-b38d-5011e5343e79" width="50%" height="50%" />
 
 
 </details>
