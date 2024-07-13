@@ -74,7 +74,9 @@ sudo apt install code
   - Locate <b>avr-gcc</b> on your Machine<br>
   - Edit the <b>Compiler Path</b><br><br>
   <img src="https://github.com/user-attachments/assets/239dcd6b-3a0d-4d27-b38d-5011e5343e79" width="50%" height="50%" /><br>
-  <b>Note:</b> on Windows you will might need to use<br>quotation marks for the <b>Compiler Path</b><br>
+  <b>Note:</b> on Windows you will might need to use<br>quotation marks for the <b>Compiler Path</b><br><br>
+  - Select <b>IntelliSense mode</b><br><br>
+  <img src="https://github.com/user-attachments/assets/68aad793-1107-4302-ae71-535d2b2fbf81" width="50%" height="50%" />
 
 
 </details>
