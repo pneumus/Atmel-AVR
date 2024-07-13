@@ -34,10 +34,10 @@ sudo apt install code
 </details>
 
 <details>
-  <summary><img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /> Windows </summary>
-[WinAVR](https://winavr.sourceforge.net) for a Ligth-Weight Compiler<br>
-[AVR Toolchain](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64.zip)  
-[Visual Studio Code](https://code.visualstudio.com/Download)  
+  <summary><img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /> Windows </summary>  
+  [WinAVR](https://winavr.sourceforge.net) for a Ligth-Weight Compiler<br>  
+  [AVR Toolchain](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64.zip)  
+  [Visual Studio Code](https://code.visualstudio.com/Download)  
 </details>
 
 
