@@ -59,6 +59,10 @@ sudo apt install code
   - Open the empty folder ( Ctrl+O )<br>
   - Create an empty C/C++ file and a Makefile ( Right click -> New File )<br><br>
   <img src="https://github.com/user-attachments/assets/2a41e63a-a7a6-4da5-9505-1d13e64303cb" width="50%" height="50%" />
+</details>
 
+<details>
+  <summary>Populate your Files</summary>
+  - Create a dummy Blinky Source as a Test
 </details>
 <br><br><br><br><br><br><br><br>
