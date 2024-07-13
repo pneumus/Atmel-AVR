@@ -55,7 +55,7 @@ sudo apt install code
 <details>
   <summary>Create New Project</summary><br>
   - Create an empty folder anywhere<br>
-  - Open the empty folder ( Ctrl+O or File -> Open Folder )<br>
+  - Open the empty folder ( Ctrl+O )<br>
   - Create an empty C/C++ file and a Makefile ( Right click -> New File )<br><br>
   <img src="https://github.com/user-attachments/assets/2a41e63a-a7a6-4da5-9505-1d13e64303cb" width="50%" height="50%" />
 
