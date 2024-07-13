@@ -63,8 +63,8 @@ sudo apt install code
 
 <details>
   <summary>Populate your Files</summary>
-  - Create a dummy Blinky Source as a Test<br>
-  <img src="https://github.com/user-attachments/assets/7174957e-4625-4a0a-a4a1-62e3a83ce588" width="20%" height="20%" />
+  - Populate your source file<br>
+  <img src="https://github.com/user-attachments/assets/2685af51-a058-40ae-85c2-d0153a6467cb" width="40%" height="40%" />
 
 </details>
 <br><br><br><br><br><br><br><br>
