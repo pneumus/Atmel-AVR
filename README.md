@@ -26,9 +26,8 @@ makepkg -si
 Ubuntu Linux</summary>
 
 ```bash
-sudo apt-get update
-sudo apt-get install gcc-avr binutils-avr avr-libc gdb-avr avrdude
-sudo apt-get install avrdude
+sudo apt update
+sudo apt install gcc-avr binutils-avr avr-libc gdb-avr avrdude
 sudo apt install code
 ```
 
