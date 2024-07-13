@@ -66,9 +66,9 @@ sudo apt install code
   - Populate your Source File<br><br>
   <img src="https://github.com/user-attachments/assets/2685af51-a058-40ae-85c2-d0153a6467cb" width="50%" height="50%" /><br>
   <b>Note:</b> Your header files will be red underlined.<br>This is an expected behavior.<br>To resolve this you must configure VS Code.<br><br>
-  - Press <b>F1</b> and type <b>C/C++</b> in the searchbox
-  - Then select <b>C/C++: Edit Configurations (UI)</b>
-  <img src="https://github.com/user-attachments/assets/7f502d4f-5255-4542-86d5-b2358820893c" width="" height="" />
+  - Press <b>F1</b> and type <b>C/C++</b> in the searchbox<br>
+  - Then select <b>C/C++: Edit Configurations (UI)</b><br>
+  <img src="https://github.com/user-attachments/assets/7f502d4f-5255-4542-86d5-b2358820893c" width="50%" height="50%" />
 
 </details>
 
