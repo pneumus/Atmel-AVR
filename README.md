@@ -69,6 +69,9 @@ sudo apt install code
   - Press <b>F1</b> and in the searchbox type <b>C/C++</b> <br>
   - Then select <b>C/C++: Edit Configurations (UI)</b><br><br>
   <img src="https://github.com/user-attachments/assets/7f502d4f-5255-4542-86d5-b2358820893c" width="50%" height="50%" /><br>
+  - Set Configuration Name ( Linux or Win32 ...etc. )
+  <img src="https://github.com/user-attachments/assets/19126ef9-a53c-49a5-ab7c-c9e60c406fdd" width="50%" height="50%" />
+
 
 </details>
 
