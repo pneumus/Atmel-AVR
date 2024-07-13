@@ -49,6 +49,6 @@ Windows</summary>
 <details>
   <summary>Install C/C++ Extension Pack</summary>  
   <br>- Open "Extensions" in the left pane or press Ctrl+Shift+X<br>
-  - Search for "C/C++ Extension Pack"<br>   
+  - Search for "C/C++ Extension Pack"<br><br>
   <img src="https://github.com/user-attachments/assets/6f6e1ffc-b966-4313-8e2b-5fa0b5422b17" width="50%" height="50%" />  
 </details>
