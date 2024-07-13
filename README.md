@@ -46,15 +46,14 @@ Windows</summary>
 
 
 #### Configure Visual Studio Code
+
 <details>
   <summary>Install VS Code Extensions</summary><br>
   - Open "Extensions" in the left pane or press Ctrl+Shift+X<br>
   - Search for "C/C++ Extension Pack" and click "Install"<br><br>
-  <img src="https://github.com/user-attachments/assets/329c0eb9-de80-4733-9330-db12b8b6e119" width="50%" height="50%" />
-
+  <img src="https://github.com/user-attachments/assets/329c0eb9-de80-4733-9330-db12b8b6e119" width="50%" height="50%" /><br>
   - Search for "Makefile Tools" and click "Install"<br><br>
   <img src="https://github.com/user-attachments/assets/ab3f2da6-5baa-40f6-8655-79ee52b7e633" width="50%" height="50%" />
-
 </details>
 
 <details>
