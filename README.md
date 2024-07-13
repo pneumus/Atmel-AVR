@@ -4,9 +4,9 @@
 ### How to setup the environment?
 
 #### Prerequisites
-- Install [Visual Studio Code](https://code.visualstudio.com/)
-- Install [avrdude](https://github.com/avrdudes/avrdude)
-- Install avr-gcc
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [avrdude](https://github.com/avrdudes/avrdude)
+- [avr-gcc](https://gcc.gnu.org/wiki/avr-gcc)
 
 ##### Installation Process
 <details>
@@ -27,7 +27,9 @@ Ubuntu Linux</summary>
 
 ```bash
 sudo apt update
-sudo apt install gcc-avr binutils-avr avr-libc gdb-avr avrdude
+sudo apt install gcc build-essential
+sudo apt install gcc-avr binutils-avr avr-libc gdb-avr
+sudo apt install libusb-dev avrdude
 sudo apt install code
 ```
 
