@@ -73,7 +73,8 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/19126ef9-a53c-49a5-ab7c-c9e60c406fdd" width="50%" height="50%" /><br><br>
   - Locate <b>avr-gcc</b> on your Machine<br>
   - Edit the <b>Compiler Path</b><br><br>
-  <img src="https://github.com/user-attachments/assets/239dcd6b-3a0d-4d27-b38d-5011e5343e79" width="50%" height="50%" />
+  <img src="https://github.com/user-attachments/assets/239dcd6b-3a0d-4d27-b38d-5011e5343e79" width="50%" height="50%" /><br>
+  <b>Note:</b> on Windows you will might need to use quotation marks for the <b>Compiler Path</b><br>
 
 
 </details>
