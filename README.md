@@ -10,7 +10,7 @@
 
 ### Installation Process
 <details>
-  <summary><img src="https://github.com/user-attachments/assets/6adedf3c-1d29-43f4-8e96-8c3d6cdcae11" width="3%" height="3%" /> Arch Linux</summary>
+  <summary><img src="https://github.com/user-attachments/assets/6adedf3c-1d29-43f4-8e96-8c3d6cdcae11" width="3%" height="3%" /><b> Arch Linux</b></summary>
 
 ```bash
 sudo pacman -S base-devel usbutils avrdude avr-gcc avr-libc  
@@ -22,7 +22,7 @@ makepkg -si
 </details>
 
 <details>
-  <summary><img src="https://github.com/user-attachments/assets/731b966d-2257-4276-9d8b-ac7f43758c4d" width="3%" height="3%" /> Ubuntu Linux</summary>
+  <summary><img src="https://github.com/user-attachments/assets/731b966d-2257-4276-9d8b-ac7f43758c4d" width="3%" height="3%" /><b> Ubuntu Linux</b></summary>
 
 ```bash
 sudo apt update
@@ -34,7 +34,7 @@ sudo apt install code
 </details>
 
 <details>
-  <summary><img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /> Windows </summary>  
+  <summary><img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /><b> Windows</b></summary>  
   <br>
   - Install <a href="https://winavr.sourceforge.net">WinAVR</a> for a Light-Weight Compiler<br>
   - Or install the full <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64.zip">AVR Toolchain</a><br>
