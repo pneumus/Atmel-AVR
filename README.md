@@ -109,7 +109,7 @@ sudo apt install code
   <br>
   <br>
   
-  - Copy the name of your <b>Programmer Hardware</b>
+  Copy the name of your <b>Programmer Hardware</b>
   <br>
   
   ```bash
@@ -119,7 +119,7 @@ sudo apt install code
   <br>
   <br>
   
-  - Copy the name of your <b>Microcontroller</b>
+  Copy the name of your <b>Microcontroller</b>
   <br>
   
   ```bash
@@ -129,7 +129,7 @@ sudo apt install code
   <br>
   <br>
 
-  - Construct the terminal command to <b>Flash the HEX File</b>
+  Construct the terminal command to <b>Flash the HEX File</b>
   <br>
   
   ```bash
@@ -139,7 +139,7 @@ sudo apt install code
   <br>
   <br>
   
-  - Copy the name of your MCU for the Compiler
+  Copy the name of your MCU for the Compiler
   
   ```bash
   avr-gcc --target-help
@@ -147,7 +147,7 @@ sudo apt install code
 
   <img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="50%" height="50%" />
 
-  - Check the Crystal Oscillator Frequency
+  Check the Crystal Oscillator Frequency
   <br>
   For example if the frequency is 16Mhz the argument will be this:
 
