@@ -211,6 +211,10 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/e1a3669f-fd7f-4e72-a0af-c761d41ec1a2" width="50%" height="50%" />
   <br>
   <br>
+  A <b>tasks.json</b> file will appear in the file explorer
+  <br>
+  <img src="https://github.com/user-attachments/assets/4f945553-1a75-464f-82a0-802e6b243396" width="50%" height="50%" />
+  <br>
 
 
   
