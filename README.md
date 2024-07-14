@@ -6,7 +6,9 @@
 
 ### Install Prerequisites
   <details>
-    <summary><img src="https://github.com/user-attachments/assets/6adedf3c-1d29-43f4-8e96-8c3d6cdcae11" width="3%" height="3%" /><b> Arch Linux</b></summary>
+    <summary>
+      <img src="https://github.com/user-attachments/assets/6adedf3c-1d29-43f4-8e96-8c3d6cdcae11" width="3%" height="3%" /><b> Arch Linux</b>
+    </summary>
     <br>
     
         sudo pacman -S base-devel usbutils avrdude avr-gcc avr-libc  
@@ -16,7 +18,9 @@
   </details>
 
   <details>
-    <summary><img src="https://github.com/user-attachments/assets/731b966d-2257-4276-9d8b-ac7f43758c4d" width="3%" height="3%" /><b> Ubuntu Linux</b></summary>
+    <summary>
+      <img src="https://github.com/user-attachments/assets/731b966d-2257-4276-9d8b-ac7f43758c4d" width="3%" height="3%" /><b> Ubuntu Linux</b>
+    </summary>
     <br>
     
         sudo apt update
@@ -30,11 +34,11 @@
   <details>
     <summary><img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /><b> Windows</b></summary>  
     <br>
-    - Install <a href="https://winavr.sourceforge.net">WinAVR</a> for a Light-Weight Compiler
+    &emsp;Install <a href="https://winavr.sourceforge.net">WinAVR</a> for a Light-Weight Compiler
     <br>
-    - Or install the full <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64.zip">AVR Toolchain</a>
+    &emsp;Or install the full <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64.zip">AVR Toolchain</a>
     <br>
-    - Install <a href="https://code.visualstudio.com/Download">Visual Studio Code</a>
+    &emsp;Install <a href="https://code.visualstudio.com/Download">Visual Studio Code</a>
     <br>
   </details>
 
@@ -231,7 +235,9 @@
 </details>
 
 <details>
-  <summary><b>Configure your Project</b></summary>
+  <summary>
+    <b>Configure your Project</b>
+  </summary>
   <br>
   <br>
   &emsp;<b>Optionally:</b> You can execute the <b>Makefile</b> from the Terminal
@@ -339,5 +345,10 @@
   
 </details>
   
-  
+<details>
+  <summary>
+    <b>Project Sample</b>
+  </summary>
+  [avr.zip](https://github.com/user-attachments/files/16228517/avr.zip)
+</details>
 <br><br><br><br><br><br><br><br>
