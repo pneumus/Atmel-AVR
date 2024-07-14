@@ -68,7 +68,7 @@ sudo apt install code
   - Locate <b>avr-gcc</b> on your Machine<br>
   - Edit the <b>Compiler Path</b><br><br>
   <img src="https://github.com/user-attachments/assets/239dcd6b-3a0d-4d27-b38d-5011e5343e79" width="50%" height="50%" /><br>
-  <b>Note:</b> on Windows you will might need to use<br>quotation marks for the <b>Compiler Path</b><br><br>
+  <b>Note:</b> you will might need to use<br>quotation marks for the <b>Compiler Path</b> if there are empty spaces in it<br><br>
   - Select <b>IntelliSense mode</b><br><br>
   <img src="https://github.com/user-attachments/assets/68aad793-1107-4302-ae71-535d2b2fbf81" width="50%" height="50%" /><br>
   <b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me<br>but make sure to test your platform specific <b>IntelliSense mode</b><br>( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )<br><br>
@@ -85,11 +85,10 @@ sudo apt install code
   - Check if IntelliSense and Smart Hints work<br>
   - If nothing is underlined and all functionalities work you are <b>done 📗</b><br>
 <img src="https://github.com/user-attachments/assets/eb631695-f2b1-4d10-a238-acb5003bc2ba" width="50%" height="50%" />
-
-
-
-
-
 </details>
 
+<details>
+  <summary>Populate your Makefile</summary>
+  
+</details>
 <br><br><br><br><br><br><br><br>
