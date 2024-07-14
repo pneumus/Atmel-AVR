@@ -9,21 +9,21 @@
     <summary><img src="https://github.com/user-attachments/assets/6adedf3c-1d29-43f4-8e96-8c3d6cdcae11" width="3%" height="3%" /><b> Arch Linux</b></summary>
     <br>
     
-    sudo pacman -S base-devel usbutils avrdude avr-gcc avr-libc  
-    git clone https://aur.archlinux.org/visual-studio-code-bin.git
-    cd visual-studio-code-bin
-    makepkg -si
+        sudo pacman -S base-devel usbutils avrdude avr-gcc avr-libc  
+        git clone https://aur.archlinux.org/visual-studio-code-bin.git
+        cd visual-studio-code-bin
+        makepkg -si
   </details>
 
   <details>
     <summary><img src="https://github.com/user-attachments/assets/731b966d-2257-4276-9d8b-ac7f43758c4d" width="3%" height="3%" /><b> Ubuntu Linux</b></summary>
     <br>
     
-    sudo apt update
-    sudo apt install gcc build-essential
-    sudo apt install gcc-avr binutils-avr avr-libc gdb-avr
-    sudo apt install libusb-dev avrdude
-    sudo apt install code
+        sudo apt update
+        sudo apt install gcc build-essential
+        sudo apt install gcc-avr binutils-avr avr-libc gdb-avr
+        sudo apt install libusb-dev avrdude
+        sudo apt install code
     
   </details>
 
