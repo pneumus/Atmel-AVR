@@ -146,10 +146,11 @@ sudo apt install code
   ```
 
   <img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="50%" height="50%" />
-
+  <br>
+  <br>
   Check the Crystal Oscillator Frequency
   <br>
-  For example if the frequency is 16Mhz the argument will be this:
+  For example if the frequency is <b>16Mhz</b> the argument will be this:
 
   
   ```bash
