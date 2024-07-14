@@ -247,6 +247,13 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/60794350-775e-40cf-a883-3f10ccb6b63c" width="40%" height="40%" />
   <br>
   <b>Note:</b> the command <b>make</b> will might not appear<br>if the <b>json</b> is not saved correctly.
+  <br>
+  <br>
+  This will add the <b>problemMatcher</b> and <b>group</b> sections to your <b>json</b> file
+  <br>
+  <img src="https://github.com/user-attachments/assets/609c071d-c1f7-402d-a3b6-bedc446dc9ef" width="50%" height="50%" />
+  <br>
+  <br>
 
 
   
