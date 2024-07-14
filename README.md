@@ -77,7 +77,7 @@ sudo apt install code
   <b>Note:</b> on Windows you will might need to use<br>quotation marks for the <b>Compiler Path</b><br><br>
   - Select <b>IntelliSense mode</b><br><br>
   <img src="https://github.com/user-attachments/assets/68aad793-1107-4302-ae71-535d2b2fbf81" width="50%" height="50%" /><br>
-  <b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me<br>but make sure to test your platform specific <b>IntelliSense mode</b><br>( i.e. linux-gcc-x86 or windows-gcc-x86 )
+  <b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me<br>but make sure to test your platform specific <b>IntelliSense mode</b><br>( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )
 
 
 </details>
