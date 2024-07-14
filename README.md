@@ -43,7 +43,7 @@ sudo apt install code
 
 <details>
   <summary><b>Install VS Code Extensions</b></summary><br>
-  - Open <b>Extensions</b> in the left pane or press <b>Ctrl+Shift+X</b>b><br><br>
+  - Open <b>Extensions</b> in the left pane or press <b>Ctrl+Shift+X</b><br><br>
   - Search for <b>C/C++ Extension Pack</b> and click "Install"<br>
   <img src="https://github.com/user-attachments/assets/329c0eb9-de80-4733-9330-db12b8b6e119" width="50%" height="50%" /><br><br>
   - Search for <b>Makefile</b> Tools and click <b>Install</b><br> 
