@@ -82,6 +82,7 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/b7277027-434c-4d58-a298-9ecf65dd2b56" width="50%" height="50%" /><br>
   <b>Note:</b> header file names are not underlined anymore<br>however methods and some definitions are.<br>This is an expected behavior.<br>You need the select the proper Microcontroller!<br>
 
+![image](https://github.com/user-attachments/assets/d1d34413-1426-428e-8b34-b00fb7b578eb)
 
 
 </details>
