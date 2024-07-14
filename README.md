@@ -111,9 +111,11 @@
   <br>
   &emsp;&emsp;<img src="https://github.com/user-attachments/assets/68aad793-1107-4302-ae71-535d2b2fbf81" width="50%" height="50%" />
   <br>
-  &emsp;&emsp;<b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me<br>but make sure to test your platform specific <b>IntelliSense mode</b>
+  &emsp;&emsp;<b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me
   <br>
-  ( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )
+  &emsp;&emsp;but make sure to test your platform specific <b>IntelliSense mode</b>
+  <br>
+  &emsp;&emsp;( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )
   <br>
   <br>
   - Save the Configuration and check your Source Code<br><br>
