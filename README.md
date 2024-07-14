@@ -30,9 +30,12 @@
   <details>
     <summary><img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /><b> Windows</b></summary>  
     <br>
-    * Install <a href="https://winavr.sourceforge.net">WinAVR</a> for a Light-Weight Compiler<br>
-    * Or install the full <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64.zip">AVR Toolchain</a><br>
-    * Install <a href="https://code.visualstudio.com/Download">Visual Studio Code</a><br>
+    - Install <a href="https://winavr.sourceforge.net">WinAVR</a> for a Light-Weight Compiler
+    <br>
+    - Or install the full <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/avr8-gnu-toolchain-3.7.0.1796-win32.any.x86_64.zip">AVR Toolchain</a>
+    <br>
+    - Install <a href="https://code.visualstudio.com/Download">Visual Studio Code</a>
+    <br>
   </details>
 
 <br>
