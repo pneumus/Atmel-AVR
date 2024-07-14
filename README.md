@@ -186,6 +186,7 @@ sudo apt install code
   <br>
   <br>
   <b>Optionally:</b> You can execute the <b>Makefile</b> from the Terminal
+  <br>
   But to directly execute your <b>Makefile</b> from VS Code
   <br>
   Press <b>F1</b> and search for <b>tasks</b> and select <b>Tasks: Configure Task</b>
