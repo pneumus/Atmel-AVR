@@ -237,7 +237,6 @@ sudo apt install code
   }
   ```
   <br>
-  <br>
   Press <b>F1</b> and select <b>Configure: Default Build Task</b>
   <br>
   <img src="https://github.com/user-attachments/assets/95ff3bdb-f533-4588-8809-0d9fd9bb4f20" width="30%" height="30%" />
