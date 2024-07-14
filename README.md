@@ -242,6 +242,12 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/95ff3bdb-f533-4588-8809-0d9fd9bb4f20" width="30%" height="30%" />
   <br>
   <br>
+  Select <b>make</b>
+  <br>
+  <img src="https://github.com/user-attachments/assets/60794350-775e-40cf-a883-3f10ccb6b63c" width="30%" height="30%" />
+  <br>
+  <b>Note:</b> the command <b>make</b> will might not appear<br>if the <b>json</b> is not saved correctly.
+
 
   
 </details>
