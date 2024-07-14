@@ -199,6 +199,7 @@ sudo apt install code
   Press <b>F1</b> and search for <b>tasks</b> and select <b>Tasks: Configure Task</b>
   <br>
   <img src="https://github.com/user-attachments/assets/7594e421-84fe-42b0-be1c-7a8a20c3ba02" width="30%" height="30%" />
+  <br>
   Then select <b>Create tasks.json file from template</b>
   <br>
   <img src="https://github.com/user-attachments/assets/4438836a-37c6-46e3-9d25-fe163d01494c" width="50%" height="50%" />
