@@ -129,7 +129,7 @@ sudo apt install code
   <br>
   <br>
 
-  - Construct the terminal command to <b>Upload the HEX File</b> to your MCU
+  - Construct the terminal command to <b>Flash the HEX File</b>
   <br>
   
   ```bash
