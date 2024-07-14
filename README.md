@@ -121,6 +121,7 @@ sudo apt install code
   
   - Copy the name of your <b>Microcontroller</b>
   <br>
+  
   ```bash
   avrdude -p ?
   ```
