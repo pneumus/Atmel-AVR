@@ -150,14 +150,24 @@ sudo apt install code
   <br>
   Check the <b>Crystal Oscillator Frequency</b>
   <br>
-  For example if the frequency is <b>16Mhz</b> the argument will be this:
+  For example if the frequency is <b>16 Mhz</b> the argument will be this:
 
   
   ```bash
-  -DF_CPU=16000000UL
+  16000000UL
   ```
-  
 
+  <br>
+  <br>
+
+  Construct the terminal command to <b>Compile the HEX File</b>
+  avr-gcc source_file mcu_type clock_frequency output_file
+  
+  ```bash
+  avr-gcc main.c -mmcu=atmega328p -DF_CPU=16000000UL -0s -o main.hex
+  ```
+  <br>
+  <b>Note:</b> the <b>-0s</b> argument will minimize the output file size
 
 </details>
 <br><br><br><br><br><br><br><br>
