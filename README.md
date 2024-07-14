@@ -1,7 +1,7 @@
 ## Embedded code samples for Atmel AVR microcontrollers
 
 ### How to setup the environment?
-<br>
+
 <br>
 
 ### Install Prerequisites
@@ -37,7 +37,6 @@ sudo apt install code
   - Install <a href="https://code.visualstudio.com/Download">Visual Studio Code</a><br>
 </details>
 
-<br>
 <br>
 
 ### Configure Visual Studio Code
