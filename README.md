@@ -114,7 +114,6 @@ sudo apt install code
   ```bash
   avrdude -c ?
   ```
-  <br>
   <img src="https://github.com/user-attachments/assets/7758c9df-86cf-4bcb-bc04-dc7f8eb41489" width="50%" height="50%" />
   <br>
   <br>
@@ -124,8 +123,6 @@ sudo apt install code
   ```bash
   avrdude -p ?
   ```
-  <br>
-  
   <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="30%" height="30%" />
   <br>
   <br>
