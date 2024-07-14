@@ -182,7 +182,7 @@ sudo apt install code
 </details>
 
 <details>
-  
+  <summary><b>Configure your Project</b></summary>
 </details>
   
   
