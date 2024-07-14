@@ -73,7 +73,11 @@
   <br>
   &emsp;&emsp;<img src="https://github.com/user-attachments/assets/b26bf4c2-954d-4b55-ba59-01909dfc951e" width="50%" height="50%" />
   <br>
-  <b>Note:</b> Your header files will be red underlined.<br>This is an expected behavior.<br>To resolve this you must configure VS Code.
+  &emsp;&emsp;<b>Note:</b> Your header files will be red underlined.
+  <br>
+  &emsp;&emsp;This is an expected behavior.
+  <br>
+  &emsp;&emsp;To resolve this you must configure VS Code.
   <br>
   <br>
   &emsp;Press <b>F1</b> and in the searchbox type <b>C/C++</b>
