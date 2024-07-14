@@ -273,18 +273,18 @@
   &emsp;Edit <b>label</b> and <b>command</b> values and <b>save</b> the file
   <br>
   
-  ```json
-  {
-  "version": "2.0.0",
-  "tasks": [
-      {
-          "label": "make",
-          "type": "shell",
-          "command": "sudo make"
-      }
-    ]
-  }
-  ```
+        ```json
+        {
+        "version": "2.0.0",
+        "tasks": [
+            {
+                "label": "make",
+                "type": "shell",
+                "command": "sudo make"
+            }
+          ]
+        }
+        ```
   <br>
   &emsp;Press <b>F1</b> and select <b>Configure: Default Build Task</b>
   <br>
