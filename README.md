@@ -221,7 +221,7 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/60ccb7b3-dc85-4552-b1a7-7ec4e2c519f6" width="50%" height="50%" />
   <br>
   <br>
-  Edit <b>label</b> and <b>command</b> values
+  Edit <b>label</b> and <b>command</b> values and <b>save</b> the file
   <br>
   
   ```json
