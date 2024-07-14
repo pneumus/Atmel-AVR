@@ -169,7 +169,9 @@ sudo apt install code
   avr-gcc main.c -mmcu=atmega328p -DF_CPU=16000000UL -0s -o main.hex
   ```
   <b>Note:</b> the <b>-0s</b> argument will minimize the output file size
-
+  <br>
+  <br>
+  <br>
 
   Populate your <b>Makefile</b> to Compile and Flash
   <br>
