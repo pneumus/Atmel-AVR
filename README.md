@@ -81,8 +81,7 @@ sudo apt install code
   - Save the Configuration and check your Source Code<br><br>
   <img src="https://github.com/user-attachments/assets/b7277027-434c-4d58-a298-9ecf65dd2b56" width="50%" height="50%" /><br>
   <b>Note:</b> header file names are not underlined anymore<br>however methods and some definitions are.<br>This is an expected behavior.<br>You need the select the proper Microcontroller!<br><br>
-  - Press and hold <b>Ctrl</b><br>
-  - Click on the <b><avr/io.h></b> header file<br>
+  - Press and hold <b>Ctrl</b> and click on the <b>avr/io.h</b> header file in your source<br>
   - This will bring you to <b>io.h</b> where you can<br>look up your Microcontroller definition<br><br>
   <img src="https://github.com/user-attachments/assets/2ac5d640-4ba3-4c8f-985a-fbb932e01a67" width="50%" height="50%" />
 
