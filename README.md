@@ -118,7 +118,7 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/7758c9df-86cf-4bcb-bc04-dc7f8eb41489" width="50%" height="50%" />
   <br>
   <br>
-  
+  <br>
   Copy the name of your <b>Microcontroller</b>
   <br>
   
@@ -128,7 +128,7 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="20%" height="20%" />
   <br>
   <br>
-
+  <br>
   Construct the terminal command to <b>Flash the HEX File</b>
   <br>
   
