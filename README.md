@@ -208,7 +208,7 @@ sudo apt install code
   <br>
   Then select <b>Others</b>
   <br>
-  <img src="https://github.com/user-attachments/assets/e1a3669f-fd7f-4e72-a0af-c761d41ec1a2" width="30%" height="30%" />
+  <img src="https://github.com/user-attachments/assets/e1a3669f-fd7f-4e72-a0af-c761d41ec1a2" width="40%" height="40%" />
   <br>
   <br>
   A <b>tasks.json</b> file will appear in the file explorer
