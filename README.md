@@ -349,6 +349,6 @@
   <summary>
     <b>Project Sample</b>
   </summary>
-    [avr.zip](https://github.com/user-attachments/files/16228517/avr.zip)
+  <a href="https://github.com/user-attachments/files/16228517/avr.zip">avr.zip</a>
 </details>
 <br><br><br><br><br><br><br><br>
