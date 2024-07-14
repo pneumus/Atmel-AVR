@@ -68,57 +68,82 @@
 
 <details>
   <summary><b>Populate your Source File</b></summary><br>
-  - Populate your <b>Source File</b><br><br>
-  <img src="https://github.com/user-attachments/assets/b26bf4c2-954d-4b55-ba59-01909dfc951e" width="50%" height="50%" /><br>
-  <b>Note:</b> Your header files will be red underlined.<br>This is an expected behavior.<br>To resolve this you must configure VS Code.<br><br>
-  - Press <b>F1</b> and in the searchbox type <b>C/C++</b> <br>
-  - Then select <b>C/C++: Edit Configurations (UI)</b><br><br>
-  <img src="https://github.com/user-attachments/assets/7f502d4f-5255-4542-86d5-b2358820893c" width="50%" height="50%" /><br><br>
-  - Set <b>Configuration Name</b> ( Linux or Win32 ...etc. )<br><br>
-  <img src="https://github.com/user-attachments/assets/19126ef9-a53c-49a5-ab7c-c9e60c406fdd" width="50%" height="50%" /><br><br>
-  - Locate <b>avr-gcc</b> on your Machine<br>
-  - Edit the <b>Compiler Path</b><br><br>
-  <img src="https://github.com/user-attachments/assets/239dcd6b-3a0d-4d27-b38d-5011e5343e79" width="50%" height="50%" /><br>
-  <b>Note:</b> you will might need to use quotation marks<br>for the <b>Compiler Path</b> if there are empty spaces in it<br><br>
-  - Select <b>IntelliSense mode</b><br><br>
-  <img src="https://github.com/user-attachments/assets/68aad793-1107-4302-ae71-535d2b2fbf81" width="50%" height="50%" /><br>
-  <b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me<br>but make sure to test your platform specific <b>IntelliSense mode</b><br>( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )<br><br>
+  &emsp;Populate your <b>Source File</b>
+  <br>
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/b26bf4c2-954d-4b55-ba59-01909dfc951e" width="50%" height="50%" />
+  <br>
+  <b>Note:</b> Your header files will be red underlined.<br>This is an expected behavior.<br>To resolve this you must configure VS Code.
+  <br>
+  <br>
+  &emsp;Press <b>F1</b> and in the searchbox type <b>C/C++</b>
+  <br>
+  &emsp;Then select <b>C/C++: Edit Configurations (UI)</b>
+  <br>
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/7f502d4f-5255-4542-86d5-b2358820893c" width="50%" height="50%" />
+  <br>
+  <br>
+  &emsp;Set <b>Configuration Name</b> ( Linux or Win32 ...etc. )
+  <br>
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/19126ef9-a53c-49a5-ab7c-c9e60c406fdd" width="50%" height="50%" />
+  <br>
+  <br>
+  &emsp;Locate <b>avr-gcc</b> on your Machine
+  <br>
+  &emsp;Edit the <b>Compiler Path</b>
+  <br>
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/239dcd6b-3a0d-4d27-b38d-5011e5343e79" width="50%" height="50%" />
+  <br>
+  &emsp;&emsp;<b>Note:</b> you will might need to use quotation marks<br>for the <b>Compiler Path</b> if there are empty spaces in it
+  <br>
+  <br>
+  &emsp;Select <b>IntelliSense mode</b>
+  <br>
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/68aad793-1107-4302-ae71-535d2b2fbf81" width="50%" height="50%" />
+  <br>
+  &emsp;&emsp;<b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me<br>but make sure to test your platform specific <b>IntelliSense mode</b>
+  <br>
+  ( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )
+  <br>
+  <br>
   - Save the Configuration and check your Source Code<br><br>
-  <img src="https://github.com/user-attachments/assets/b7277027-434c-4d58-a298-9ecf65dd2b56" width="50%" height="50%" /><br>
-  <b>Note:</b> header file names are not underlined anymore
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/b7277027-434c-4d58-a298-9ecf65dd2b56" width="50%" height="50%" /><br>
+  &emsp;&emsp;<b>Note:</b> header file names are not underlined anymore
   <br>
-  however methods and some definitions are.
+  &emsp;&emsp;however methods and some definitions are.
   <br>
-  This is an expected behavior.
+  &emsp;&emsp;This is an expected behavior.
   <br>
-  You need to select the proper Microcontroller!
-  <br>
-  <br>
-  - Press and hold <b>Ctrl</b> and click on the <b>avr/io.h</b> header file in your source
-  <br>
-  - This will bring you to <b>io.h</b> where you can look up your <b>Microcontroller definition
-  </b>
-  <br>
-  - Copy your Microcontroller definition<br><br>
-  <img src="https://github.com/user-attachments/assets/2ac5d640-4ba3-4c8f-985a-fbb932e01a67" width="50%" height="50%" />
+  &emsp;&emsp;You need to select the proper Microcontroller!
   <br>
   <br>
-  - Go back to the <b>C/C++ Configurations</b> and edit the <b>Defines</b> section<br>
-  - Paste your <b>Microcontroller Definition</b> here and save it<br><br>
-  <img src="https://github.com/user-attachments/assets/11e48bb2-45b7-4a23-b5bf-4705711a1ae3" width="50%" height="50%" />
+  &emsp;Press and hold <b>Ctrl</b> and click on the <b>avr/io.h</b> header file in your source
+  <br>
+  &emsp;This will bring you to <b>io.h</b> where you can look up your <b>Microcontroller definition</b>
+  <br>
+  &emsp;Copy your Microcontroller definition<br><br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/2ac5d640-4ba3-4c8f-985a-fbb932e01a67" width="50%" height="50%" />
   <br>
   <br>
-  Two <b>json</b> files appeared in the folder structure
+  &emsp;Go back to the <b>C/C++ Configurations</b> and edit the <b>Defines</b> section<br>
+  &emsp;Paste your <b>Microcontroller Definition</b> here and save it<br><br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/11e48bb2-45b7-4a23-b5bf-4705711a1ae3" width="50%" height="50%" />
   <br>
-  <img src="https://github.com/user-attachments/assets/a6453534-0456-45d8-9adf-e9709f9aef11" width="50%" height="50%" />
+  <br>
+  &emsp;Two <b>json</b> files appeared in the folder structure
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/a6453534-0456-45d8-9adf-e9709f9aef11" width="50%" height="50%" />
   <br>
   <br>
 
-  - Check if IntelliSense and Smart Hints work<br>
-  - If nothing is underlined and all functionalities work you are <b>done 📗
-  </b>
+  &emsp;Check if IntelliSense and Smart Hints work<br>
+  &emsp;If nothing is underlined and all functionalities work you are <b>done 📗</b>
   <br>
-<img src="https://github.com/user-attachments/assets/eb631695-f2b1-4d10-a238-acb5003bc2ba" width="50%" height="50%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/eb631695-f2b1-4d10-a238-acb5003bc2ba" width="50%" height="50%" />
 </details>
 
 <details>
