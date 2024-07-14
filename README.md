@@ -74,30 +74,60 @@ sudo apt install code
   <b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me<br>but make sure to test your platform specific <b>IntelliSense mode</b><br>( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )<br><br>
   - Save the Configuration and check your Source Code<br><br>
   <img src="https://github.com/user-attachments/assets/b7277027-434c-4d58-a298-9ecf65dd2b56" width="50%" height="50%" /><br>
-  <b>Note:</b> header file names are not underlined anymore<br>however methods and some definitions are.<br>This is an expected behavior.<br>You need to select the proper Microcontroller!<br><br>
-  - Press and hold <b>Ctrl</b> and click on the <b>avr/io.h</b> header file in your source<br>
-  - This will bring you to <b>io.h</b> where you can look up your <b>Microcontroller definition</b><br>
+  <b>Note:</b> header file names are not underlined anymore
+  <br>
+  however methods and some definitions are.
+  <br>
+  This is an expected behavior.
+  <br>
+  You need to select the proper Microcontroller!
+  <br>
+  <br>
+  - Press and hold <b>Ctrl</b> and click on the <b>avr/io.h</b> header file in your source
+  <br>
+  - This will bring you to <b>io.h</b> where you can look up your <b>Microcontroller definition
+  </b>
+  <br>
   - Copy your Microcontroller definition<br><br>
-  <img src="https://github.com/user-attachments/assets/2ac5d640-4ba3-4c8f-985a-fbb932e01a67" width="50%" height="50%" /><br><br>
+  <img src="https://github.com/user-attachments/assets/2ac5d640-4ba3-4c8f-985a-fbb932e01a67" width="50%" height="50%" />
+  <br>
+  <br>
   - Go back to the <b>C/C++ Configurations</b> and edit the <b>Defines</b> section<br>
   - Paste your <b>Microcontroller Definition</b> here and save it<br><br>
-  <img src="https://github.com/user-attachments/assets/11e48bb2-45b7-4a23-b5bf-4705711a1ae3" width="50%" height="50%" /><br><br>
+  <img src="https://github.com/user-attachments/assets/11e48bb2-45b7-4a23-b5bf-4705711a1ae3" width="50%" height="50%" />
+  <br>
+  <br>
   - Check if IntelliSense and Smart Hints work<br>
-  - If nothing is underlined and all functionalities work you are <b>done 📗</b><br>
+  - If nothing is underlined and all functionalities work you are <b>done 📗
+  </b>
+  <br>
 <img src="https://github.com/user-attachments/assets/eb631695-f2b1-4d10-a238-acb5003bc2ba" width="50%" height="50%" />
 </details>
 
 <details>
   <summary><b>Populate your Makefile</b></summary><br><br>
-  - Type this in a terminal:<br>
+  - Type this in a terminal:
+  <br>
   
   ```bash
   avrdude -c ?
   ```
   <br>
-  - Copy the name of your Programmer Hardware<br>
-  <img src="https://github.com/user-attachments/assets/7758c9df-86cf-4bcb-bc04-dc7f8eb41489" width="50%" height="50%" /><br><br>
+  - Copy the name of your <b>Programmer Hardware</b>
+  <br>
+  <img src="https://github.com/user-attachments/assets/7758c9df-86cf-4bcb-bc04-dc7f8eb41489" width="50%" height="50%" />
+  <br>
+  <br>
+  - Type this in a terminal:
   
+  ```bash
+  avrdude -p ?
+  ```
+  <br>
+  - Copy the name of your <b>Microcontroller</b>
+  <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="50%" height="50%" />
+  <br>
+  <br>
 
 
 
