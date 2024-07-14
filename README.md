@@ -125,7 +125,7 @@ sudo apt install code
   ```bash
   avrdude -p ?
   ```
-  <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="30%" height="30%" />
+  <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="20%" height="20%" />
   <br>
   <br>
 
@@ -145,7 +145,7 @@ sudo apt install code
   avr-gcc --target-help
   ```
 
-  <img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="30%" height="30%" />
+  <img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="50%" height="50%" />
 
 
 </details>
