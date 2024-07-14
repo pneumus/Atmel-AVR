@@ -60,10 +60,10 @@
 
 <details>
   <summary><b>Create New Project</b></summary><br>
-  - Create an empty folder anywhere<br>
-  - Open the empty folder ( Ctrl+O )<br>
-  - Create an empty <b>C/C++ File</b> and a <b>Makefile</b> ( Right click -> New File )<br><br>
-  <img src="https://github.com/user-attachments/assets/2a41e63a-a7a6-4da5-9505-1d13e64303cb" width="50%" height="50%" />
+  &emsp;Create an empty folder anywhere<br>
+  &emsp;Open the empty folder ( Ctrl+O )<br>
+  &emsp;Create an empty <b>C/C++ File</b> and a <b>Makefile</b> ( Right click -> New File )<br><br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/2a41e63a-a7a6-4da5-9505-1d13e64303cb" width="50%" height="50%" />
 </details>
 
 <details>
