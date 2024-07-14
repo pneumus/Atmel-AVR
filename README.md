@@ -47,7 +47,9 @@
 ### Configure Visual Studio Code
 
   <details>
-    <summary><b>Install VS Code Extensions</b></summary>
+    <summary>
+      <b>Install VS Code Extensions</b>
+    </summary>
     <br>
     &emsp;Open <b>Extensions</b> in the left pane or press <b>Ctrl+Shift+X</b>
     <br>
@@ -63,7 +65,10 @@
   </details>
 
 <details>
-  <summary><b>Create New Project</b></summary><br>
+  <summary>
+    <b>Create New Project</b>
+  </summary>
+  <br>
   &emsp;Create an empty folder anywhere<br>
   &emsp;Open the empty folder ( Ctrl+O )<br>
   &emsp;Create an empty <b>C/C++ File</b> and a <b>Makefile</b> ( Right click -> New File )<br><br>
