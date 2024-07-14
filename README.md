@@ -86,8 +86,12 @@ sudo apt install code
   - Copy your Microcontroller definition<br><br>
   <img src="https://github.com/user-attachments/assets/2ac5d640-4ba3-4c8f-985a-fbb932e01a67" width="50%" height="50%" /><br><br>
   - Go back to the <b>C/C++ Configurations</b> and edit the <b>Defines</b> section<br>
-  - Paste your <b>Microcontroller Definition</b> here and save it
-  <img src="https://github.com/user-attachments/assets/11e48bb2-45b7-4a23-b5bf-4705711a1ae3" width="50%" height="50%" />
+  - Paste your <b>Microcontroller Definition</b> here and save it<br><br>
+  <img src="https://github.com/user-attachments/assets/11e48bb2-45b7-4a23-b5bf-4705711a1ae3" width="50%" height="50%" /><br><br>
+  - Check if IntelliSense and Smart Hints work<br>
+  - If nothing is underlined and all functionalities work you are <b>done</b><br>
+<img src="https://github.com/user-attachments/assets/eb631695-f2b1-4d10-a238-acb5003bc2ba" width="50%" height="50%" />
+
 
 
 
