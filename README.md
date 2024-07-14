@@ -71,7 +71,10 @@
 </details>
 
 <details>
-  <summary><b>Populate your Source File</b></summary><br>
+  <summary>
+    <b>Populate your Source File</b>
+  </summary>
+  <br>
   &emsp;Populate your <b>Source File</b>
   <br>
   <br>
@@ -160,7 +163,9 @@
 </details>
 
 <details>
-  <summary><b>Populate your Makefile</b></summary>
+  <summary>
+    <b>Populate your Makefile</b>
+  </summary>
   <br>
   <br>
   
