@@ -7,7 +7,8 @@
 ### Install Prerequisites
 <details>
   <summary><img src="https://github.com/user-attachments/assets/6adedf3c-1d29-43f4-8e96-8c3d6cdcae11" width="3%" height="3%" /><b> Arch Linux</b></summary>
-
+&emsp;
+  
 ```bash
 sudo pacman -S base-devel usbutils avrdude avr-gcc avr-libc  
 git clone https://aur.archlinux.org/visual-studio-code-bin.git
