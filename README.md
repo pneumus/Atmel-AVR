@@ -297,7 +297,7 @@
   <br>
   &emsp;&emsp;<b>Note:</b> the command <b>make</b> will might not appear
   <br>
-  &emsp;&emsp;if the <b>json</b> is not saved correctly.
+  &emsp;&emsp;if the <b>json file</b> is not saved correctly.
   <br>
   <br>
   &emsp;This will add the <b>problemMatcher</b> and <b>group</b> sections to your <b>json</b> file
