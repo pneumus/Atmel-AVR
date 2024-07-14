@@ -315,27 +315,27 @@
   &emsp;the <b>terminal output</b> will look like this:
   <br>
 
-  ```bash
-  avrdude -c stk500v2 -p m328p -P /dev/ttyUSB0 -U main.hex
-  avrdude: AVR device initialized and ready to accept instructions
-  avrdude: device signature = 0x1e950f (probably m328p)
-  avrdude: Note: flash memory has been specified, an erase cycle will be performed.
-         To disable this feature, specify the -D option.
-  avrdude: erasing chip
-  
-  avrdude: processing -U flash:w:main.hex:e
-  avrdude: reading input file main.hex for flash
-         with 164 bytes in 1 section within [0, 0xa3]
-         using 2 pages and 92 pad bytes
-  avrdude: writing 164 bytes flash ...
-  Writing | ################################################## | 100% 0.19 s 
-  avrdude: 164 bytes of flash written
-  avrdude: verifying flash memory against main.hex
-  Reading | ################################################## | 100% 0.13 s 
-  avrdude: 164 bytes of flash verified
-  
-  avrdude done.  Thank you.
-  ```
+        ```bash
+        avrdude -c stk500v2 -p m328p -P /dev/ttyUSB0 -U main.hex
+        avrdude: AVR device initialized and ready to accept instructions
+        avrdude: device signature = 0x1e950f (probably m328p)
+        avrdude: Note: flash memory has been specified, an erase cycle will be performed.
+               To disable this feature, specify the -D option.
+        avrdude: erasing chip
+        
+        avrdude: processing -U flash:w:main.hex:e
+        avrdude: reading input file main.hex for flash
+               with 164 bytes in 1 section within [0, 0xa3]
+               using 2 pages and 92 pad bytes
+        avrdude: writing 164 bytes flash ...
+        Writing | ################################################## | 100% 0.19 s 
+        avrdude: 164 bytes of flash written
+        avrdude: verifying flash memory against main.hex
+        Reading | ################################################## | 100% 0.13 s 
+        avrdude: 164 bytes of flash verified
+        
+        avrdude done.  Thank you.
+        ```
   
 </details>
   
