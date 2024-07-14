@@ -138,10 +138,14 @@ sudo apt install code
 
   <br>
   <br>
-  - Copy the name of your 
   
+  - Copy the name of your MCU for the Compiler
   
-  
+  ```bash
+  avr-gcc --target-help
+  ```
+
+  <img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="30%" height="30%" />
 
 
 </details>
