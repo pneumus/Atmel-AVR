@@ -53,7 +53,7 @@
     &emsp;&emsp;<img src="https://github.com/user-attachments/assets/329c0eb9-de80-4733-9330-db12b8b6e119" width="30%" height="30%" />
     <br>
     <br>
-    &emsp;Search for <b>Makefile</b> Tools and click <b>Install</b>
+    &emsp;Search for <b>Makefile Tools</b> and click <b>Install</b>
     <br> 
     &emsp;&emsp;<img src="https://github.com/user-attachments/assets/ab3f2da6-5baa-40f6-8655-79ee52b7e633" width="30%" height="30%" />
   </details>
