@@ -118,8 +118,9 @@
   &emsp;&emsp;( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )
   <br>
   <br>
-  - Save the Configuration and check your Source Code<br><br>
-  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/b7277027-434c-4d58-a298-9ecf65dd2b56" width="50%" height="50%" /><br>
+  &emsp;Save the Configuration and check your Source Code<br><br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/b7277027-434c-4d58-a298-9ecf65dd2b56" width="50%" height="50%" />
+  <br>
   &emsp;&emsp;<b>Note:</b> header file names are not underlined anymore
   <br>
   &emsp;&emsp;however methods and some definitions are.
@@ -159,27 +160,27 @@
   <br>
   <br>
   
-  Copy the name of your <b>Programmer Hardware</b>
+  &emsp;Copy the name of your <b>Programmer Hardware</b>
   <br>
   
   ```bash
   avrdude -c ?
   ```
-  <img src="https://github.com/user-attachments/assets/7758c9df-86cf-4bcb-bc04-dc7f8eb41489" width="50%" height="50%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/7758c9df-86cf-4bcb-bc04-dc7f8eb41489" width="50%" height="50%" />
   <br>
   <br>
   <br>
-  Copy the name of your <b>Microcontroller</b>
+  &emsp;Copy the name of your <b>Microcontroller</b>
   <br>
   
   ```bash
   avrdude -p ?
   ```
-  <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="20%" height="20%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="20%" height="20%" />
   <br>
   <br>
   <br>
-  Construct the terminal command to <b>Flash the HEX File</b>
+  &emsp;Construct the terminal command to <b>Flash the HEX File</b>
   <br>
   
   ```bash
@@ -188,19 +189,19 @@
 
   <br>
   <br>
-  Copy the name of your MCU for the Compiler
+  &emsp;Copy the name of your MCU for the Compiler
   
   ```bash
   avr-gcc --target-help
   ```
 
-  <img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="50%" height="50%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="50%" height="50%" />
   <br>
   <br>
   <br>
-  Check the <b>Crystal Oscillator Frequency</b>
+  &emsp;Check the <b>Crystal Oscillator Frequency</b>
   <br>
-  For example if the frequency is <b>16 Mhz</b> the argument will be this:
+  &emsp;For example if the frequency is <b>16 Mhz</b> the argument will be this:
 
   
   ```bash
@@ -210,65 +211,65 @@
   <br>
   <br>
 
-  Construct the terminal command to <b>Compile the HEX File</b>
+  &emsp;Construct the terminal command to <b>Compile the HEX File</b>
   <br>
-  <i>avr-gcc&emsp;<source_file>&emsp;<mcu_type>&emsp;<clock_frequency>&emsp;<output_file></i>
+  &emsp;<i>avr-gcc&emsp;<source_file>&emsp;<mcu_type>&emsp;<clock_frequency>&emsp;<output_file></i>
   <br>
   
   ```bash
   avr-gcc main.c -mmcu=atmega328p -DF_CPU=16000000UL -Os -o main.hex
   ```
-  <b>Note:</b> the <b>-Os</b> argument will minimize the output file size
+  &emsp;&emsp;<b>Note:</b> the <b>-Os</b> argument will minimize the output file size
   <br>
   <br>
   <br>
 
-  Populate your <b>Makefile</b> to Compile and Flash
+  &emsp;Populate your <b>Makefile</b> to Compile and Flash
   <br>
-  <img src="https://github.com/user-attachments/assets/4aeb44db-a554-4e8d-a15c-a18e3aed78f8" width="50%" height="50%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/4aeb44db-a554-4e8d-a15c-a18e3aed78f8" width="50%" height="50%" />
 </details>
 
 <details>
   <summary><b>Configure your Project</b></summary>
   <br>
   <br>
-  <b>Optionally:</b> You can execute the <b>Makefile</b> from the Terminal
+  &emsp;<b>Optionally:</b> You can execute the <b>Makefile</b> from the Terminal
   <br>
-  by going to the <b>Project Folder</b> and executing this:
+  &emsp;by going to the <b>Project Folder</b> and executing this:
   <br>
 
   ```bash
   sudo make
   ```
   <br>
-  But to directly execute your <b>Makefile</b> from VS Code
+  &emsp;But to directly execute your <b>Makefile</b> from VS Code
   <br>
-  Press <b>F1</b> and search for <b>tasks</b> and select <b>Tasks: Configure Task</b>
+  &emsp;Press <b>F1</b> and search for <b>tasks</b> and select <b>Tasks: Configure Task</b>
   <br>
-  <img src="https://github.com/user-attachments/assets/7594e421-84fe-42b0-be1c-7a8a20c3ba02" width="30%" height="30%" />
-  <br>
-  <br>
-  Then select <b>Create tasks.json file from template</b>
-  <br>
-  <img src="https://github.com/user-attachments/assets/4438836a-37c6-46e3-9d25-fe163d01494c" width="50%" height="50%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/7594e421-84fe-42b0-be1c-7a8a20c3ba02" width="30%" height="30%" />
   <br>
   <br>
-  Then select <b>Others</b>
+  &emsp;Then select <b>Create tasks.json file from template</b>
   <br>
-  <img src="https://github.com/user-attachments/assets/e1a3669f-fd7f-4e72-a0af-c761d41ec1a2" width="40%" height="40%" />
-  <br>
-  <br>
-  A <b>tasks.json</b> file will appear in the file explorer
-  <br>
-  <img src="https://github.com/user-attachments/assets/a00c5244-7fda-4dae-9b37-b4b942ee1abd" width="50%" height="50%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/4438836a-37c6-46e3-9d25-fe163d01494c" width="50%" height="50%" />
   <br>
   <br>
-  The file content looks like this by default
+  &emsp;Then select <b>Others</b>
   <br>
-  <img src="https://github.com/user-attachments/assets/60ccb7b3-dc85-4552-b1a7-7ec4e2c519f6" width="50%" height="50%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/e1a3669f-fd7f-4e72-a0af-c761d41ec1a2" width="40%" height="40%" />
   <br>
   <br>
-  Edit <b>label</b> and <b>command</b> values and <b>save</b> the file
+  &emsp;A <b>tasks.json</b> file will appear in the file explorer
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/a00c5244-7fda-4dae-9b37-b4b942ee1abd" width="50%" height="50%" />
+  <br>
+  <br>
+  &emsp;The file content looks like this by default
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/60ccb7b3-dc85-4552-b1a7-7ec4e2c519f6" width="50%" height="50%" />
+  <br>
+  <br>
+  &emsp;Edit <b>label</b> and <b>command</b> values and <b>save</b> the file
   <br>
   
   ```json
@@ -284,31 +285,31 @@
   }
   ```
   <br>
-  Press <b>F1</b> and select <b>Configure: Default Build Task</b>
+  &emsp;Press <b>F1</b> and select <b>Configure: Default Build Task</b>
   <br>
-  <img src="https://github.com/user-attachments/assets/95ff3bdb-f533-4588-8809-0d9fd9bb4f20" width="30%" height="30%" />
-  <br>
-  <br>
-  Select <b>make</b>
-  <br>
-  <img src="https://github.com/user-attachments/assets/60794350-775e-40cf-a883-3f10ccb6b63c" width="40%" height="40%" />
-  <br>
-  <b>Note:</b> the command <b>make</b> will might not appear<br>if the <b>json</b> is not saved correctly.
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/95ff3bdb-f533-4588-8809-0d9fd9bb4f20" width="30%" height="30%" />
   <br>
   <br>
-  This will add the <b>problemMatcher</b> and <b>group</b> sections to your <b>json</b> file
+  &emsp;Select <b>make</b>
   <br>
-  <img src="https://github.com/user-attachments/assets/609c071d-c1f7-402d-a3b6-bedc446dc9ef" width="50%" height="50%" />
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/60794350-775e-40cf-a883-3f10ccb6b63c" width="40%" height="40%" />
   <br>
-  <br>
-  Now you can press <b>Ctrl+Shift+B</b> or select <b>Run Build Task</b>
-  <br>
-  <img src="https://github.com/user-attachments/assets/fd931bfd-05fd-438d-acf0-121c68d92620" width="30%" height="30%" />
+  &emsp;&emsp;<b>Note:</b> the command <b>make</b> will might not appear<br>if the <b>json</b> is not saved correctly.
   <br>
   <br>
-  If the compile and upload was <b>successful</b>
+  &emsp;This will add the <b>problemMatcher</b> and <b>group</b> sections to your <b>json</b> file
   <br>
-  the <b>terminal output</b> will look like this:
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/609c071d-c1f7-402d-a3b6-bedc446dc9ef" width="50%" height="50%" />
+  <br>
+  <br>
+  &emsp;Now you can press <b>Ctrl+Shift+B</b> or select <b>Run Build Task</b>
+  <br>
+  &emsp;&emsp;<img src="https://github.com/user-attachments/assets/fd931bfd-05fd-438d-acf0-121c68d92620" width="30%" height="30%" />
+  <br>
+  <br>
+  &emsp;If the compile and upload was <b>successful</b>
+  <br>
+  &emsp;the <b>terminal output</b> will look like this:
   <br>
 
   ```bash
