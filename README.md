@@ -101,7 +101,9 @@
   <br>
   &emsp;&emsp;<img src="https://github.com/user-attachments/assets/239dcd6b-3a0d-4d27-b38d-5011e5343e79" width="50%" height="50%" />
   <br>
-  &emsp;&emsp;<b>Note:</b> you will might need to use quotation marks<br>for the <b>Compiler Path</b> if there are empty spaces in it
+  &emsp;&emsp;<b>Note:</b> you will might need to use quotation marks
+  <br>
+  &emsp;&emsp;for the <b>Compiler Path</b> if there are empty spaces in it
   <br>
   <br>
   &emsp;Select <b>IntelliSense mode</b>
