@@ -130,6 +130,16 @@ sudo apt install code
   <br>
 
   - Construct the terminal command to <b>Upload the HEX File</b> to your MCU
+  <br>
+  ```bash
+  avrdude -c stk500v2 -p m328p -U main.hex
+  ```
+
+  <br>
+  <br>
+  - Copy the name of your 
+  
+  
   
 
 
