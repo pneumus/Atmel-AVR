@@ -80,7 +80,7 @@ sudo apt install code
   <b>Note:</b> the <b>gcc-x86 (legacy)</b> worked fine for me<br>but make sure to test your platform specific <b>IntelliSense mode</b><br>( i.e. <b>linux-gcc-x86</b> or <b>windows-gcc-x86</b> )<br><br>
   - Save the Configuration and check your Source Code<br><br>
   <img src="https://github.com/user-attachments/assets/2faa6f97-793c-4108-97e1-53b9ff7f1741" width="50%" height="50%" /><br>
-  <b>Note:</b> header file names are not underlined anymore<br>but methods and some definitions are.<br>This is an expected behavior. You need the select the proper Microcontroller!<br>
+  <b>Note:</b> header file names are not underlined anymore<br>however methods and some definitions are.<br>This is an expected behavior.<br>You need the select the proper Microcontroller!<br>
 
 
 
