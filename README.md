@@ -295,7 +295,9 @@
   <br>
   &emsp;&emsp;<img src="https://github.com/user-attachments/assets/60794350-775e-40cf-a883-3f10ccb6b63c" width="40%" height="40%" />
   <br>
-  &emsp;&emsp;<b>Note:</b> the command <b>make</b> will might not appear<br>if the <b>json</b> is not saved correctly.
+  &emsp;&emsp;<b>Note:</b> the command <b>make</b> will might not appear
+  <br>
+  &emsp;&emsp;if the <b>json</b> is not saved correctly.
   <br>
   <br>
   &emsp;This will add the <b>problemMatcher</b> and <b>group</b> sections to your <b>json</b> file
