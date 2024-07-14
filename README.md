@@ -147,6 +147,7 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="50%" height="50%" />
   <br>
   <br>
+  <br>
   Check the <b>Crystal Oscillator Frequency</b>
   <br>
   For example if the frequency is <b>16 Mhz</b> the argument will be this:
