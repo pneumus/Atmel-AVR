@@ -215,6 +215,14 @@ sudo apt install code
   <br>
   <img src="https://github.com/user-attachments/assets/4f945553-1a75-464f-82a0-802e6b243396" width="50%" height="50%" />
   <br>
+  <br>
+  The file content looks like this by default
+  <br>
+  <img src="https://github.com/user-attachments/assets/60ccb7b3-dc85-4552-b1a7-7ec4e2c519f6" width="50%" height="50%" />
+  <br>
+  <br>
+
+
 
 
   
