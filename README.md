@@ -105,27 +105,27 @@ sudo apt install code
 </details>
 
 <details>
-  <summary><b>Populate your Makefile</b></summary><br><br>
-  - Type this in a terminal:
+  <summary><b>Populate your Makefile</b></summary>
+  <br>
+  <br>
+  - Copy the name of your <b>Programmer Hardware</b>
   <br>
   
   ```bash
   avrdude -c ?
   ```
   <br>
-  - Copy the name of your <b>Programmer Hardware</b>
-  <br>
   <img src="https://github.com/user-attachments/assets/7758c9df-86cf-4bcb-bc04-dc7f8eb41489" width="50%" height="50%" />
   <br>
   <br>
-  - Type this in a terminal:
   
+  - Copy the name of your <b>Microcontroller</b>
+  <br>
   ```bash
   avrdude -p ?
   ```
   <br>
-  - Copy the name of your <b>Microcontroller</b>
-  <br>
+  
   <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="30%" height="30%" />
   <br>
   <br>
