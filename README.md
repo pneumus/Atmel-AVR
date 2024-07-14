@@ -161,7 +161,9 @@ sudo apt install code
   <br>
 
   Construct the terminal command to <b>Compile the HEX File</b>
+  <br>
   avr-gcc source_file mcu_type clock_frequency output_file
+  <br>
   
   ```bash
   avr-gcc main.c -mmcu=atmega328p -DF_CPU=16000000UL -0s -o main.hex
