@@ -183,6 +183,14 @@ sudo apt install code
 
 <details>
   <summary><b>Configure your Project</b></summary>
+
+  <b>Optionally:</b> You can execute the <b>Makefile</b> from the Terminal
+  But to directly execute your <b>Makefile</b> from VS Code
+  <br>
+  Press <b>F1</b> and search for <b>tasks</b> and select <b>Tasks: Configure Task</b>
+  <img src="https://github.com/user-attachments/assets/7594e421-84fe-42b0-be1c-7a8a20c3ba02" width="30%" height="30%" />
+
+  
 </details>
   
   
