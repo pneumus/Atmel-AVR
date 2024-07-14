@@ -219,7 +219,7 @@ sudo apt install code
   <br>
   A <b>tasks.json</b> file will appear in the file explorer
   <br>
-  <img src="https://github.com/user-attachments/assets/4f945553-1a75-464f-82a0-802e6b243396" width="50%" height="50%" />
+  <img src="https://github.com/user-attachments/assets/a00c5244-7fda-4dae-9b37-b4b942ee1abd" width="50%" height="50%" />
   <br>
   <br>
   The file content looks like this by default
