@@ -169,9 +169,9 @@ sudo apt install code
   <br>
   
   ```bash
-  avr-gcc main.c -mmcu=atmega328p -DF_CPU=16000000UL -0s -o main.hex
+  avr-gcc main.c -mmcu=atmega328p -DF_CPU=16000000UL -Os -o main.hex
   ```
-  <b>Note:</b> the <b>-0s</b> argument will minimize the output file size
+  <b>Note:</b> the <b>-Os</b> argument will minimize the output file size
   <br>
   <br>
   <br>
@@ -200,10 +200,12 @@ sudo apt install code
   <br>
   <img src="https://github.com/user-attachments/assets/7594e421-84fe-42b0-be1c-7a8a20c3ba02" width="30%" height="30%" />
   <br>
+  <br>
   Then select <b>Create tasks.json file from template</b>
   <br>
   <img src="https://github.com/user-attachments/assets/4438836a-37c6-46e3-9d25-fe163d01494c" width="50%" height="50%" />
   <br>
+  
 
   
 </details>
