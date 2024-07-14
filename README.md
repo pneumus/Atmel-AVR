@@ -147,6 +147,16 @@ sudo apt install code
 
   <img src="https://github.com/user-attachments/assets/6e4febad-8233-4e10-aa59-ae4a957d1683" width="50%" height="50%" />
 
+  - Check the Crystal Oscillator Frequency
+  <br>
+  For example if the frequency is 16Mhz the argument will be this:
+
+  
+  ```bash
+  -DF_CPU=16000000UL
+  ```
+  
+
 
 </details>
 <br><br><br><br><br><br><br><br>
