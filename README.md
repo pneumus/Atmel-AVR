@@ -88,8 +88,8 @@ sudo apt install code
 </details>
 
 <details>
-  <summary><b>Populate your Makefile</b></summary>
-  - Type this in a terminal:
+  <summary><b>Populate your Makefile</b></summary><br><br>
+  - Type this in a terminal:<br>
   
   ```bash
   avrdude -c ?
