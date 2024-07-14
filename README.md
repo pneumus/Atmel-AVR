@@ -88,7 +88,18 @@ sudo apt install code
 </details>
 
 <details>
-  <summary>Populate your Makefile</summary>
+  <summary><b>Populate your Makefile</b></summary>
+  - Type this in a terminal:
   
+  ```bash
+  avrdude -c ?
+  ```
+  <br>
+  - Copy the name of your Programmer Hardware<br>
+  <img src="https://github.com/user-attachments/assets/7758c9df-86cf-4bcb-bc04-dc7f8eb41489" width="50%" height="50%" /><br><br>
+  
+
+
+
 </details>
 <br><br><br><br><br><br><br><br>
