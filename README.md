@@ -100,6 +100,12 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/11e48bb2-45b7-4a23-b5bf-4705711a1ae3" width="50%" height="50%" />
   <br>
   <br>
+  Two <b>json</b> files appeared in the folder structure
+  <br>
+  <img src="https://github.com/user-attachments/assets/a6453534-0456-45d8-9adf-e9709f9aef11" width="50%" height="50%" />
+  <br>
+  <br>
+
   - Check if IntelliSense and Smart Hints work<br>
   - If nothing is underlined and all functionalities work you are <b>done 📗
   </b>
