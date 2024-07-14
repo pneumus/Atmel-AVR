@@ -260,7 +260,10 @@ sudo apt install code
   <img src="https://github.com/user-attachments/assets/609c071d-c1f7-402d-a3b6-bedc446dc9ef" width="50%" height="50%" />
   <br>
   <br>
-
+  Now you can press <b>Ctrl+Shift+B</b> or select <b>Run Build Task</b>
+  <br>
+  <img src="https://github.com/user-attachments/assets/fd931bfd-05fd-438d-acf0-121c68d92620" width="50%" height="50%" />
+  <br>
 
   
 </details>
