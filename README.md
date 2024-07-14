@@ -15,17 +15,17 @@
     makepkg -si
   </details>
 
-<details>
-  <summary><img src="https://github.com/user-attachments/assets/731b966d-2257-4276-9d8b-ac7f43758c4d" width="3%" height="3%" /><b> Ubuntu Linux</b></summary>
-
-```bash
-sudo apt update
-sudo apt install gcc build-essential
-sudo apt install gcc-avr binutils-avr avr-libc gdb-avr
-sudo apt install libusb-dev avrdude
-sudo apt install code
-```
-</details>
+  <details>
+    <summary><img src="https://github.com/user-attachments/assets/731b966d-2257-4276-9d8b-ac7f43758c4d" width="3%" height="3%" /><b> Ubuntu Linux</b></summary>
+    <br>
+    
+    sudo apt update
+    sudo apt install gcc build-essential
+    sudo apt install gcc-avr binutils-avr avr-libc gdb-avr
+    sudo apt install libusb-dev avrdude
+    sudo apt install code
+    
+  </details>
 
 <details>
   <summary><img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /><b> Windows</b></summary>  
