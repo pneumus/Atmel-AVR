@@ -162,7 +162,7 @@ sudo apt install code
 
   Construct the terminal command to <b>Compile the HEX File</b>
   <br>
-  <i>avr-gcc<t>source_file mcu_type clock_frequency output_file</i>
+  <i>avr-gcc&emsp;source_file&emsp;mcu_type&emsp;clock_frequency&emsp;output_file</i>
   <br>
   
   ```bash
