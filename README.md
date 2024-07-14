@@ -137,7 +137,6 @@ sudo apt install code
   ```
 
   <br>
-  <br>
   
   Copy the name of your MCU for the Compiler
   
