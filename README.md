@@ -171,6 +171,8 @@ sudo apt install code
 
 
   Populate your <b>Makefile</b> to Compile and Flash
+  <br>
+  <img src="https://github.com/user-attachments/assets/4aeb44db-a554-4e8d-a15c-a18e3aed78f8" width="50%" height="50%" />
 
   
   
