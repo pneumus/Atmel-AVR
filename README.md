@@ -129,6 +129,8 @@ sudo apt install code
   <br>
   <br>
 
+  - Construct the terminal command to <b>Upload the HEX File</b> to your MCU
+  
 
 
 </details>
