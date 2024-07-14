@@ -32,7 +32,9 @@
   </details>
 
   <details>
-    <summary><img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /><b> Windows</b></summary>  
+    <summary>
+      <img src="https://github.com/user-attachments/assets/7cf4fdb1-c479-407a-89a4-1a254f1301ec" width="3%" height="3%" /><b> Windows</b>
+    </summary>  
     <br>
     &emsp;Install <a href="https://winavr.sourceforge.net">WinAVR</a> for a Light-Weight Compiler
     <br>
