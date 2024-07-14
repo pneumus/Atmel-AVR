@@ -205,7 +205,13 @@ sudo apt install code
   <br>
   <img src="https://github.com/user-attachments/assets/4438836a-37c6-46e3-9d25-fe163d01494c" width="50%" height="50%" />
   <br>
-  
+  <br>
+  Then select <b>Others</b>
+  <br>
+  <img src="https://github.com/user-attachments/assets/e1a3669f-fd7f-4e72-a0af-c761d41ec1a2" width="50%" height="50%" />
+  <br>
+  <br>
+
 
   
 </details>
