@@ -183,7 +183,8 @@ sudo apt install code
 
 <details>
   <summary><b>Configure your Project</b></summary>
-
+  <br>
+  <br>
   <b>Optionally:</b> You can execute the <b>Makefile</b> from the Terminal
   But to directly execute your <b>Makefile</b> from VS Code
   <br>
