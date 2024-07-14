@@ -126,8 +126,7 @@ sudo apt install code
   <br>
   - Copy the name of your <b>Microcontroller</b>
   <br>
-  <br>
-  <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="50%" height="50%" />
+  <img src="https://github.com/user-attachments/assets/9ea12bd7-6f81-4923-87a3-407280066c9f" width="30%" height="30%" />
   <br>
   <br>
 
