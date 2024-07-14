@@ -187,7 +187,7 @@ sudo apt install code
   <br>
   <b>Optionally:</b> You can execute the <b>Makefile</b> from the Terminal
   <br>
-  by going to <b>Project Folder</b> and executing this:
+  by going to the <b>Project Folder</b> and executing this:
   <br>
 
   ```bash
