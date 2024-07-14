@@ -38,25 +38,25 @@
     <br>
   </details>
 
-<br>
+  <br>
 
 ### Configure Visual Studio Code
 
-<details>
-  <summary><b>Install VS Code Extensions</b></summary>
-  <br>
-  Open <b>Extensions</b> in the left pane or press <b>Ctrl+Shift+X</b>
-  <br>
-  <br>
-  Search for <b>C/C++ Extension Pack</b> and click "Install"
-  <br>
-  <img src="https://github.com/user-attachments/assets/329c0eb9-de80-4733-9330-db12b8b6e119" width="50%" height="50%" />
-  <br>
-  <br>
-  Search for <b>Makefile</b> Tools and click <b>Install</b>
-  <br> 
-  <img src="https://github.com/user-attachments/assets/ab3f2da6-5baa-40f6-8655-79ee52b7e633" width="50%" height="50%" />
-</details>
+  <details>
+    <summary><b>Install VS Code Extensions</b></summary>
+    <br>
+    Open <b>Extensions</b> in the left pane or press <b>Ctrl+Shift+X</b>
+    <br>
+    <br>
+    Search for <b>C/C++ Extension Pack</b> and click "Install"
+    <br>
+    <img src="https://github.com/user-attachments/assets/329c0eb9-de80-4733-9330-db12b8b6e119" width="50%" height="50%" />
+    <br>
+    <br>
+    Search for <b>Makefile</b> Tools and click <b>Install</b>
+    <br> 
+    <img src="https://github.com/user-attachments/assets/ab3f2da6-5baa-40f6-8655-79ee52b7e633" width="50%" height="50%" />
+  </details>
 
 <details>
   <summary><b>Create New Project</b></summary><br>
