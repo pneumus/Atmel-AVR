@@ -51,7 +51,6 @@
 <details>
   <summary>
     <b>Grant yourself privileges</b>
-    
     <br>
     After connecting the ISP programmer to your PC
     <br>
