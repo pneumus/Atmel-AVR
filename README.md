@@ -56,9 +56,9 @@
     <br>
     you will need to edit the USB port's access rights.
     
-    ```bash
-    sudo chmod 666 /dev/ttyUSB0
-    ```
+
+        sudo chmod 666 /dev/ttyUSB0
+
 
   </details>
 
