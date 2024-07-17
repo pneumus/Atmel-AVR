@@ -51,8 +51,8 @@
 <details>
   <summary>
     <b>Grant yourself privileges</b>
-    After connecting the ISP programmer to your PC you will need to edit the USB port's access rights.
     <br>
+    After connecting the ISP programmer to your PC you will need to edit the USB port's access rights.
 
         ```bash
         sudo chmod 666 /dev/ttyUSB0
