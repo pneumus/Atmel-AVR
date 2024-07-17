@@ -10,7 +10,7 @@
       <img src="https://github.com/user-attachments/assets/6adedf3c-1d29-43f4-8e96-8c3d6cdcae11" width="3%" height="3%" /><b> Arch Linux</b>
     </summary>
     <br>
-    
+
         sudo pacman -S base-devel usbutils avrdude avr-gcc avr-libc  
         git clone https://aur.archlinux.org/visual-studio-code-bin.git
         cd visual-studio-code-bin
@@ -45,6 +45,20 @@
   </details>
 
   <br>
+
+### Hardware Setup
+
+<details>
+  <summary>
+    <b>Grant yourself privileges</b>
+    After connecting the ISP programmer to your PC you will need to edit the USB port's access rights.
+    <br>
+
+        ```bash
+        sudo chmod 666 /dev/ttyUSB0
+        ```
+  </summary>
+</details>
 
 ### Configure Visual Studio Code
 
